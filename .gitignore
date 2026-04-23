@@ -1,0 +1,4 @@
+SKILL.before-codex-direct-exec.md
+__pycache__/
+*.pyc
+.DS_Store
